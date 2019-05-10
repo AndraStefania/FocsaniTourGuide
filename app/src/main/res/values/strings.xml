@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Focsani Tour Guide</string>
+    <string name="attraction_icon">Attraction_icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    //Category Strings
+    <string name="architecture">Must See</string>
+    <string name="museums">Museums</string>
+    <string name="parks">Parks</string>
+    <string name="food">Food</string>
+
+    //Locations Strings
+    <string name="union_square">Union Square</string>
+    <string name="union_square_description">The square surrounding the obelisk is situated on the old border between Tara Romaneasca and Moldova. Every year, on January 24th, the great act of the Union is celebrated.</string>
+    <string name="municipal_theater">Municipal Theater "Maior Gheorghe Pastia"</string>
+    <string name="municipal_theater_description">Inaugurated in 1913 features elements in the architecture of the theaters of Odessa and Berlin, as well as a good acoustics. The building is a historical monument, the interest falling on the interior dome, beautifully decorated.</string>
+    <string name="popular_athenaeum">The Popular Athenaeum "Maior Gheorghe Pastia"</string>
+    <string name="popular_athenaeum_description">It is an interwar building, a historical monument, linked to the personality of Major Pastia, the founder of the theater in the town of Milcov.</string>
+    <string name="mausoleum_heroes">The Mausoleum of the Heroes</string>
+    <string name="mausoleum_heroes_description">The Mausoleum of the Heroes in Focsani has three main graves, in the walls there are boxes with the bones of the unknown heroes fallen in the battles of 1918, the surroundings are arranged in a beautiful park.</string>
+    <string name="church">Church of Saint John the Baptist</string>
+    <string name="church_description">It was part of the entire monastery, dedicated to "The Birth of Saint John the Baptist", founded by Prince of Wallachia, Grigore Ghica, in 1661.</string>
+    <string name="wine_cellar">Lordy Wine Cellar</string>
+    <string name="wine_cellar_description">This historic monument dates from the 14th century, during the reign of Stephen the Great. In 1834, ruler Mihai Sturza, in possession of more than 200 hectares of vine, became the owner of the ruins of two stone cellars.</string>
+
+    <string name="vrancea">Vrancea Museum</string>
+    <string name="vrancea_description">The Vrancea Museum has rich collections of archeological, ethnographic and natural sciences exhibited in the basic exhibitions or in the 72 objectives of the Ethnography Section.</string>
+    <string name="natural">Museum of Natural Sciences</string>
+    <string name="natural_description">Within it, visitors can admire 34 species of animals with over 230 specimens, from freshwater species to reptiles, various bird species or small mammals.</string>
+    <string name="history">Museum of History and Archeology</string>
+    <string name="history_description">The Department of History and Archeology includes four subsections: archeology, the Middle Ages and old, numismatic and modern and contemporary history.</string>
+    <string name="village">The Village Museum</string>
+    <string name="village_description">Established in 1977, primarily as a cultural necessity, but also for highlighting the ethnographic heritage of Vrancea, the museum is made up of 73 authentic constructions grouped in 32 complexes with over 6,000 different objects.</string>
+    <string name="union">Union Museum</string>
+    <string name="union_description">It is recognized that Focsani was a landmark in the unionist movement. The Union Museum presents a series of documents regarding this, together with a series of objects belonging to the family of Ruler Alexandru Ioan Cuza.</string>
+
+    <string name="garden">Public Garden</string>
+    <string name="garden_description">It was inaugurated in 1873, on the site of the Gardens of St. John\s Monastery. It was until the Second World War one of the city\s landmarks.</string>
+    <string name="balcescu">Nicolae Balcescu Park</string>
+    <string name="balcescu_description">Built after 1950, on the land of a great Armenian landowner from the early twentieth century.</string>
+    <string name="schuman">Robert Schuman Park</string>
+    <string name="schuman_description">Robert Schuman, an eminent lawyer and French minister of foreign affairs during 1948 and 1952, is considered one of the founding fathers of the European Union.</string>
+    <string name="eroilor">Heroes Mausoleum Park</string>
+    <string name="eroilor_description">The park includes the Mausoleum of Heroes in Focsani is one of the four funerary monuments in the county raised in memory of the heroes fallen in World War I.</string>
+    <string name="teatru">Theater Park - Mr. Gh. Pastia</string>
+    <string name="teatru_description">Mr. Gh. Pastia Focsani Park is located in the immediate vicinity of Mr. Gh. Pastia Theater and is the ideal place to relax before a play.</string>
+
+    <string name="davids">Restaurant David\s</string>
+    <string name="davids_description">For those who want to spend some pleasant moments with friends and children we have a generous terrace where you can serve the restaurant menu and an outdoor bar and for the little ones with a spacious playground and recreation area where they are supervised by a qualified staff.</string>
+    <string name="vranceana">Casa Vranceana</string>
+    <string name="vranceana_description">With a new design and a pleasant ambience, the Vrancea House is very close to the center of Focsani. The architecture, the furniture, the decorations, the terrace offered by the terrace and the kindness of the staff, all make you feel as good as home.</string>
+    <string name="laguna">Restaurant Laguna</string>
+    <string name="laguna_description">International restaurant.</string>
+    <string name="intim">Restaurant Intim</string>
+    <string name="intim_description">Intim restaurant is a wonderful retreat for those who want to give up (at least for a few hours) everyday routine, but also the right location for important events in your life.</string>
+    <string name="atelier">L\Atelier</string>
+    <string name="atelier_description">A pub for young people.</string>
+
+</resources>
